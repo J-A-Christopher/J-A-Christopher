@@ -1,4 +1,4 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=J-A-Christopher.J-A-Christopher">
 
 <!--
 **J-A-Christopher/J-A-Christopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
