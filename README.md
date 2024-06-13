@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software developer.</h3>
 <br/>
 <div align="center">
-EMOJICODE🇰🇪
+&#127472;&#127481;
  
  🔭 I’m currently working on **a marketplace**
  
